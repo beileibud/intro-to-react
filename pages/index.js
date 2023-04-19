@@ -1,7 +1,7 @@
 import Counter from '../components/Counter';
 
 function Home() {
-    const myAnimals = [{animalName: 'Pig' }, {animalName: 'Dog' }, {animalName: 'Duck' }];
+  const myAnimals = [{ animalName: 'Pig' }, { animalName: 'Dog' }, { animalName: 'Duck' }];
 
   return (
     <>
